@@ -1,0 +1,7 @@
+cluster.name: lumisportal
+node.name: node1 
+network.host: 0.0.0.0
+discovery.seed_hosts: ["127.0.0.1"]
+cluster.initial_master_nodes: ["node1"]
+action.auto_create_index: "-lumisportal-*,+*"
+search.max_open_scroll_context: 100000
