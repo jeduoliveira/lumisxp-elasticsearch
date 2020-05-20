@@ -1,0 +1,4 @@
+cluster.name: lumisportal
+node.name: node1 
+network.host: 0.0.0.0
+action.auto_create_index: "-lumisportal-*,+*"
