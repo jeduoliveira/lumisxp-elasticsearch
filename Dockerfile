@@ -1,5 +1,5 @@
 
-FROM docker.elastic.co/elasticsearch/elasticsearch:7.1.1
+FROM docker.elastic.co/elasticsearch/elasticsearch:7.9.2
 
 LABEL maintainer="jeduoliveira81@gmail.com"
 LABEL version="1.0"
